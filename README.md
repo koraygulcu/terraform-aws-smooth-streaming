@@ -10,7 +10,9 @@ The following resources are created:
 
 See examples directory.
 
-## Usage
+Before destroying the resources, make sure all the files in the S3 bucket are deleted.
+
+## Feedback
 
 Feel free to submit issues and PRs.
 
